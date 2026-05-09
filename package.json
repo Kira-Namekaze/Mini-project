@@ -1,0 +1,23 @@
+{
+  "name": "primary",
+  "version": "1.0.0",
+  "description": "It is a movie ticket booking website with front-end only. I designed it as a part of my HCI (human-computer interaction) project. It is available in both dark & light mode.",
+  "main": "all - Copy.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Kira-Namekaze/Mini-project.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Kira-Namekaze/Mini-project/issues"
+  },
+  "homepage": "https://github.com/Kira-Namekaze/Mini-project#readme",
+  "dependencies": {
+    "@vercel/speed-insights": "^2.0.0"
+  }
+}
